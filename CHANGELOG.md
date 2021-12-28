@@ -13,17 +13,17 @@ All the primary weapons are now projectile based
 - XO-16 (Monarch) is now projectile based
 
 ### Changed
- -Blue trail added to Volt and Devotion
- -Bullet acceleration added to Volt and Devotion
- -Made all trails smaller
- -Set SMGs and pistols bullet speed to 6000 
- -Set Rifles and LMGs bullet speed to 9000 
+ - Blue trail added to Volt and Devotion
+ - Bullet acceleration added to Volt and Devotion
+ - Made all trails smaller
+ - Set SMGs and pistols bullet speed to 6000 
+ - Set Rifles and LMGs bullet speed to 9000 
 
 ### Fixed
- -Fixed the ghost bullet bug
+ - Fixed the ghost bullet bug
  
 ### Know issue
- -Crash after shooting multiples grunts with any projectile weapon (maxing entity limit is probable cause) might be a problem when Attrition comes. Any help with this would be appreciate. 
+ - Crash after shooting multiples grunts with any projectile weapon (maxing entity limit is probable cause) might be a problem when Attrition comes. Any help with this would be appreciate. 
 
 
 ## [0.0.0] - 12-27-21
