@@ -1,6 +1,7 @@
 # ModularBalancePatch
 - Makes every hitscan weapon into a projectile
 - Converts the Wingman B3 into the Mozanbique B3
+
 The mod must be installed on the clients AND server to work
 
 #Want to help?
