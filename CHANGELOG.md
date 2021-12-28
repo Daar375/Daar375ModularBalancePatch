@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
  
 
 ## [1.0.0] - 12-28-21
-
+All the primary weapons are now projectile based 
 ### Added
 - Spitfire is now projectile based
 - DMR  is now projectile based
@@ -24,3 +24,10 @@ All notable changes to this project will be documented in this file.
  
 ### Know issue
  -Crash after shooting multiples grunts with any projectile weapon (maxing entity limit is probable cause) might be a problem when Attrition comes. Any help with this would be appreciate. 
+
+
+## [0.0.0] - 12-27-21
+
+### Added
+- Made almost all primary weapon projectile based.
+
