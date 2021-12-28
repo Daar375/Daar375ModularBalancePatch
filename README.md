@@ -23,6 +23,7 @@ All the primary weapons are now projectile based
  - Made all trails smaller
  - Set SMGs and pistols bullet speed to 6000 
  - Set Rifles and LMGs bullet speed to 9000 
+ - Set DRM and G2 bullet speed to 12000 
 
 ### Fixed
  - Fixed the ghost bullet bug
