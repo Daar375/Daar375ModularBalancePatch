@@ -34,14 +34,14 @@ WeaponData
 	"projectilemodel" 								"models/weapons/bullets/projectile_20mm.mdl"
 
 	// Effects
-	"tracer_effect"   								"P_wpn_tracer"
-	"tracer_effect_first_person"                    "P_wpn_tracer"
+	//"tracer_effect"   								"P_wpn_tracer"
+	//"tracer_effect_first_person"                    "P_wpn_tracer"
 	"vortex_absorb_effect"							"wpn_vortex_projectile_rifle_FP"
 	"vortex_absorb_effect_third_person"				"wpn_vortex_projectile_rifle"
 	"vortex_absorb_sound"							"Vortex_Shield_AbsorbBulletSmall"
 	"vortex_absorb_sound_1P_VS_3P"					"Vortex_Shield_AbsorbBulletSmall_1P_VS_3P"
 	"projectile_adjust_to_gun_barrel"				"1"
-	"projectile_trail_effect_0" 					"P_wpn_tracer"
+	"projectile_trail_effect_0" 					"garand_trail_smoke"
 	"projectile_do_predict_impact_effects"			"1"//0"
 
 	"fx_shell_eject_view"							"wpn_shelleject_rifle_assault_FP"
@@ -122,7 +122,7 @@ WeaponData
 	"pass_through_depth"							"32"
 	"pass_through_damage_preserved_scale"			"1"
 
-	"bolt_speed"									"12000"
+	"bolt_speed"									"8000"
 
 
 	MP_BASE

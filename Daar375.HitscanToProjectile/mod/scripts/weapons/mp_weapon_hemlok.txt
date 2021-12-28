@@ -35,7 +35,7 @@ WeaponData
 	"projectilemodel" 								"models/weapons/bullets/projectile_20mm.mdl"
 
 	// Effects
-	"tracer_effect"   								"P_wpn_tracer"
+	//"tracer_effect"   								"P_wpn_tracer"
 	"tracer_effect_first_person"                    "P_wpn_tracer"
 	"vortex_absorb_effect"							"wpn_vortex_projectile_rifle_FP"
 	"vortex_absorb_effect_third_person"				"wpn_vortex_projectile_rifle"
@@ -119,7 +119,7 @@ WeaponData
 	"pass_through_depth"							"32"
 	"pass_through_damage_preserved_scale"			"1"
 
-	"bolt_speed"									"12000"
+	"bolt_speed"									"9000"
 
 	MP_BASE
 	{

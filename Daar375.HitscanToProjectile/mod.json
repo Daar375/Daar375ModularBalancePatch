@@ -1,6 +1,10 @@
 {
- "ApiId" : "Daar375.HitscanToProjectile",
-  "Name": "HitscanToProjectile",
-  "Description": "Fuck Hitscan now everything is a projectile"
+	"ApiId" : "Daar375.HitscanToProjectile",
+	"Name": "HitscanToProjectile",
+	"Description": "Fuck Hitscan now everything is a projectile",
+  	"RequiredOnClient": true,
+	"Version": "1.0.0",
+	"Authors": ["Daar375"],
+	"LoadPriority": 2
 
 }

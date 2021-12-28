@@ -16,7 +16,7 @@ WeaponData
 	"pickup_press_prompt" 							"[USE] [WEAPONNAME]"
 	"minimap_reveal_distance"						"32000"
 	"leveled_pickup"								"1"
-	"OnWeaponPrimaryAttack"							"OnWeaponPrimaryAttack_weapon_sniper"
+	"OnWeaponPrimaryAttack"							"OnWeaponPrimaryAttack_weapon_doubletake"
 
 
 	"damage_flags"									"DF_BULLET  | DF_DISMEMBERMENT"
@@ -32,18 +32,18 @@ WeaponData
 	// Models
 	"viewmodel"   									"models/weapons/hemlok_smg/ptpov_hemlok_smg.mdl"
 	"playermodel" 									"models/weapons/hemlok_smg/w_hemlok_smg.mdl"
-		"projectilemodel" 								"models/weapons/bullets/projectile_20mm.mdl"
+	"projectilemodel" 								"models/dev/empty_model.mdl"
 
 	// Effects
 	"impact_effect_table" 							"pulse_bullet"
 	"tracer_effect_first_person"                    "P_wpn_tracer_pulse"
-	"tracer_effect"   								"P_wpn_tracer_pulse"
+	//"tracer_effect"   							"P_wpn_tracer_pulse"
 	"vortex_absorb_effect"							"wpn_vortex_projectile_rifle_FP"
 	"vortex_absorb_effect_third_person"				"wpn_vortex_projectile_rifle"
 	"vortex_absorb_sound"							"Vortex_Shield_AbsorbBulletSmall"
 	"vortex_absorb_sound_1P_VS_3P"					"Vortex_Shield_AbsorbBulletSmall_1P_VS_3P"
 	"projectile_adjust_to_gun_barrel"				"1"
-	"projectile_trail_effect_0" 					"weapon_kraber_projectile"
+	"projectile_trail_effect_0" 					"P_doubletake_proj"
 	"projectile_do_predict_impact_effects"			"1"//0"
 	
 	"sound_dryfire"									"hemlok_dryfire"
@@ -102,27 +102,27 @@ WeaponData
 	"damage_far_distance" 							"1500"
 	"red_crosshair_range" 							"1000"
 
-	// Bolt info
+// Bolt info
 	"bolt_hitsize"									"0.0"
 	"bolt_hitsize_grow1_time"						"0.035"
-	"bolt_hitsize_grow1_size"						"0.5"
+	"bolt_hitsize_grow1_size"						"3.0"//1.25"//8.5"//7.5"//10.0"
 	"bolt_hitsize_grow2_time"						"0.08"
-	"bolt_hitsize_grow2_size"						"1.0"
+	"bolt_hitsize_grow2_size"						"4.0"//2.5"//17.0"//15.0"//20.0"
 	"bolt_hitsize_growfinal_lerptime"				"0.18"
-	"bolt_hitsize_growfinal_size"					"2.0"
+	"bolt_hitsize_growfinal_size"					"6.0"//2.5"//17.0"//15.0"//20.0"
 
 	"bolt_gravity_enabled"							"1"
-	"bolt_gravity_amount"							"0.2500"//0.500"
+	"bolt_gravity_amount"							"0.09"
 
 	"bolt_bounce_frac"								"0.000"
 	"projectile_damage_reduction_per_bounce"		"0.0"
 	"projectile_damages_owner"						"0"
 	"projectile_ricochet_max_count"					"0"
 
-	"pass_through_depth"							"32"
-	"pass_through_damage_preserved_scale"			"1"
+	"bolt_speed"									"5000"//7000"
 
-	"bolt_speed"									"12000"
+	"bolt_spread_max"								"0.015"//0.030"//0.05"
+	"bolt_spread_min"								"0.015"//0.030"//0.025"									
 
 	MP_BASE
 	{

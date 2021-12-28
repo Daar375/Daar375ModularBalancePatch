@@ -41,8 +41,8 @@ WeaponData
 	"holster_type"									"rifle"
 
 	// Effects
-	"tracer_effect_first_person"                    "P_wpn_tracer_pistol"
-	"tracer_effect"   								"P_wpn_tracer_pistol"
+	//"tracer_effect_first_person"                    "P_wpn_tracer_pistol"
+	//"tracer_effect"   								"P_wpn_tracer_pistol"
 	"vortex_absorb_effect"							"wpn_vortex_projectile_rifle_FP"
 	"vortex_absorb_effect_third_person"				"wpn_vortex_projectile_rifle"
 	"vortex_absorb_sound"							"Vortex_Shield_AbsorbBulletSmall"
@@ -137,7 +137,7 @@ WeaponData
 	"pass_through_depth"							"32"
 	"pass_through_damage_preserved_scale"			"1"
 
-	"bolt_speed"									"12000"
+	"bolt_speed"									"6000"
 	// Ammo
 	"ammo_clip_size"   								"20"
 
