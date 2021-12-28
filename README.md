@@ -3,8 +3,10 @@
 - Converts the Wingman B3 into the Mozanbique B3
 The mod must be installed on the clients AND server to work
 
-#Whant to help?
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=FXKFJPYPF2TH2)
+#Want to help?
+- Host your server with my mod
+- Help me with the code, the current issues are in the Know issues segment of each change log
+- Buy me a beer [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=FXKFJPYPF2TH2)
 
 # Change Log
 All notable changes to this project will be documented in this file.
