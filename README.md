@@ -11,13 +11,12 @@ The mod must be installed on the clients AND server to work
 
 # Change Log
 All notable changes to this project will be documented in this file.
-## [1.0.0] - 12-28-21
+## [1.0.1] - 12-28-21
 All the primary weapons are now projectile based 
 ### Added
 - Wingman B3 is now Mozanbique B3
 - Changed project name as the scope change from making everything hitscan to a Modular Balance Patch
 
- 
 ### Know issue
  - Crash after shooting multiples grunts with any projectile weapon (maxing entity limit is probable cause) might be a problem when Attrition comes. Any help with this would be appreciate. 
 
