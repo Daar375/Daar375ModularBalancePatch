@@ -1,0 +1,10 @@
+{
+	"ApiId" : "Daar375.SecondaryMozanbique",
+	"Name": "SecondaryMozanbique",
+	"Description": "Makes the WingmanB3 the old Mozanbique",
+  	"RequiredOnClient": true,
+	"Version": "1.0.0",
+	"Authors": ["Daar375"],
+	"LoadPriority": 2
+
+}
