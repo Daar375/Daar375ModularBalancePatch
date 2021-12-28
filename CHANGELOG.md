@@ -11,7 +11,7 @@ All the primary weapons are now projectile based
 - P2016 is now projectile based
 - RE-45 Auto is now projectile based
 - XO-16 (Monarch) is now projectile based
-
+- RequiredOnClient is now True as the mod is not server side
 ### Changed
  - Blue trail added to Volt and Devotion
  - Bullet acceleration added to Volt and Devotion
